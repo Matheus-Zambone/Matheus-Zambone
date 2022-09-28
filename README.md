@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi, i´m Matheus! Good to see you here! 👋
 
+Student of economic sciences 📚 in the 7th semester and passionate about programming <❤️>. Looking for an opportunity to follow my dream of working in technology 👨🏻‍💻!
 <!--
 **Matheus-Zambone/Matheus-Zambone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on full-stack
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
