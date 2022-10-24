@@ -18,7 +18,7 @@ Student of economic sciences 📚 in the 7th semester and passionate about progr
   ##
  
 <div> 
-  <a href = "mailto:mzambone@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/matheuszambone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Matheus-Zambone/Matheus-Zambone/blob/output/github-contribution-grid-snake.svg)
